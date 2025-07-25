@@ -27,7 +27,7 @@ const styles = StyleSheet.create({
   active: {
     width: 30,
     height: 30,
-    backgroundColor: "green",
+    backgroundColor: "#10B981",
     borderRadius: 50,
     borderColor: "#64748B",
     borderWidth: 2,
